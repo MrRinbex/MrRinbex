@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrRinbex
-- 👀 I’m interested to learn new tech
+- 👀 I’m interested to learn more and more
 - 🌱 Currently learning React.js/ Node.js ...
 - 💞️ Looking to collaborate on some challenges in the future
 - 📫 How to reach me : www.leocheffi.com
