@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrRinbex
+- 👋 Hi, I’m Léo Cheffi
 - 👀 I’m interested to learn more and more
 - 🌱 Currently learning React.js/ Node.js ...
 - 💞️ Looking to collaborate on some challenges in the future
