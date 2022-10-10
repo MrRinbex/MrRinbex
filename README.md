@@ -4,6 +4,8 @@
 - 💞️ Looking to collaborate on some challenges in the future
 - 📫 How to reach me : www.leocheffi.com
 
+<img src="https://github-readme-stats.vercel.app/api?username=MrRinbex&show_icons=true"/>
+
 <!---
 MrRinbex/MrRinbex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
