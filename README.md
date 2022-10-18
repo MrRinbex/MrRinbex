@@ -8,9 +8,9 @@
 - 🌱 Currently learning React.js/ Node.js ...
 - 💞️ Looking to collaborate on some challenges in the future
 - 🪪 How to reach me : www.leocheffi.com
-- 🧬  Meta Blog 3.0 : meta-blog-3-0.netlify.app
-- 🚴🏻  Iron Bike : ironbike.netlify.app
-- 🛸  Ufo invaders : ufo-invaders.leocheffi.com
+- 🧬  Meta Blog 3.0 : https://meta-blog-3-0.netlify.app
+- 🚴🏻  Iron Bike : https://ironbike.netlify.app
+- 🛸  Ufo invaders : https://ufo-invaders.leocheffi.com
 
 
 
