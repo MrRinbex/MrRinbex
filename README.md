@@ -11,7 +11,7 @@
 - 💞️ Looking to collaborate on some challenges in the future
 - 🪪 How to reach me : www.leocheffi.com
 - 🧬 [Meta Blog 3.0](https://meta-blog-3-0.netlify.app) 🧬   
-- 🚴🏻 [Iron Bike](https://ironbike.netlify.app) 🚴  
+- 🚴🏻 [Iron Bike](https://iron-bike.netlify.app) 🚴  
 - 🛸 [Ufo invaders](https://ufo-invaders.leocheffi.com) 🛸  
 
 
