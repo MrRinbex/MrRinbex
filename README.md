@@ -13,6 +13,7 @@
 - 🧬 [Meta Blog 3.0](https://meta-blog-3-0.netlify.app) 🧬   
 - 🚴🏻 [Iron Bike](https://iron-bike.netlify.app) 🚴  
 - 🛸 [Ufo invaders](https://ufo-invaders.leocheffi.com) 🛸  
+- 🗞️ [World Wide News Today](https://world-wide-news-today.netlify.app) 🗞️
 
 
 
